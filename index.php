@@ -22,5 +22,9 @@ echo "nu funckar allt som det ska!";
 
 echo "Vad har du på dig?";
 
+//-------
+
+echo "Bra jobbat idag Sibar!"
+
 >>>>>>> 55d6359ffa36a18393ae3f9a6da79ab59275f896
 ?>
